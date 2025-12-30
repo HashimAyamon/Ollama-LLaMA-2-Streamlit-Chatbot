@@ -1,5 +1,5 @@
-
 # 🤖 LLaMA 2 Chatbot using Ollama & Streamlit
+
 
 A simple and powerful **AI chatbot** built using **Ollama (LLaMA 2)** and **Streamlit**.  
 This project runs **100% locally**, requires **no API key**, and works **offline**.
